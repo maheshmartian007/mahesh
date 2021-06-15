@@ -1,0 +1,68 @@
+.content{
+	width: 60%;
+	float: left;
+	padding: 10px 0 0 30px;
+	background: transparent;
+	height: 100%;
+}
+
+
+.sidebar{
+	width: 40%;
+	float: right;
+	padding: 10px;
+	background: transparent;
+	text-align: center;
+	height: 100%;
+	font-style: italic;
+}
+
+h1{
+	text-align: center;
+	border: 1px solid yellow;
+	padding-bottom: 10px;
+}
+
+body{
+	color: white;
+	background-image: url('https://wallpapercave.com/wp/wp9153624.jpg');
+	background-position: center;s
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+#date{
+	color: yellow;
+	font-size: 15px;
+	font-style: italic;
+}
+
+#sidetext{
+	font-weight:bold ;
+	font-style: italic;
+	color:whitesmoke;
+}
+
+#sidehead{
+	font-family:Garamond;
+	font-weight:bold;
+
+}
+
+#cb{
+	font-weight:bold;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+
+#Latpost{
+	font-weight:bold;
+	font-size: 30px;
+	color: whitesmoke;
+
+}
+
+ul {
+  list-style-type: none;
+}
